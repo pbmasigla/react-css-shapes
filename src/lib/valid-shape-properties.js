@@ -11,8 +11,9 @@ module.exports = {
 	square: {
 		backgroundColor: { attributes: ["backgroundColor"] },
 		length: { attributes: ["height", "width"] }
-	},
-	triangle: {
-		backgroundColor: { attributes: ["backgroundColor"] }
 	}
+	// ,
+	// triangle: {
+	// 	backgroundColor: { attributes: ["backgroundColor"] }
+	// }
 }
